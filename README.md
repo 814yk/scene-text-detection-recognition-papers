@@ -28,7 +28,7 @@
 | TextFuseNet: Scene Text Detection with Richer Fused Features                                              | hybrid                    |              | 2020 | ECCV       | [Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123740103.pdf) | [Code](https://github.com/ying09/TextFuseNet)                     |
 | Real-time Scene Text Detection with Differentiable Binarization (DB)                                      | hybrid                    |              | 2020 | AAAI       | [Paper](https://arxiv.org/abs/1903.08836)                                       | [Code](https://github.com/MhLiao/DB)                              |
 
-##Text recognition
+## Text recognition
 
 | Title                                                                                                                            | Architecture    | Year | Conference                                                     | Paper                                                                                                                                                    | Code                                                        |
 |----------------------------------------------------------------------------------------------------------------------------------|-----------------|------|----------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|
