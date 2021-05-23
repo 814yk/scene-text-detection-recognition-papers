@@ -1,9 +1,7 @@
 # scene-text-detection-recognition
-
-
-
-
-
+  
+  
+  
 ## Text Detection
 | Title                                                                                                     | Method                    | Architecture | Year | Conference | Paper                                                                  | Code                                                      |
 |-----------------------------------------------------------------------------------------------------------|---------------------------|--------------|------|------------|------------------------------------------------------------------------|-----------------------------------------------------------|
@@ -31,12 +29,10 @@
 | Shape robust text detection with progressive scale expansion network (PSENet)                             | segmentation-based        | FPN          | 2019 | CVPR       | [Paper](https://arxiv.org/abs/1903.12473)                                       | [Code](https://github.com/whai362/PSENet)                         |
 | TextFuseNet: Scene Text Detection with Richer Fused Features                                              | hybrid                    |              | 2020 | ECCV       | [Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123740103.pdf) | [Code](https://github.com/ying09/TextFuseNet)                     |
 | Real-time Scene Text Detection with Differentiable Binarization (DB)                                      | hybrid                    |              | 2020 | AAAI       | [Paper](https://arxiv.org/abs/1903.08836)                                       | [Code](https://github.com/MhLiao/DB)                              |
-
-
-
-
-
-##Text recognition
+  
+  
+  
+## Text recognition
 
 | Title                                                                                                                            | Architecture    | Year | Conference                                                     | Paper                                                                                                                                                    | Code                                                        |
 |----------------------------------------------------------------------------------------------------------------------------------|-----------------|------|----------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|
@@ -64,11 +60,9 @@
 | Bidirectional Scene Text Recognition with a Single Decoder (Bi-STET)                                                             | Attention-based | 2020 | ECAI                                                           | [Paper](https://arxiv.org/pdf/1912.03656.pdf)                                                                                                                     | [Code](https://github.com/MauritsBleeker/Bi-STET)                   |
 | Towards accurate scene text recognition with semantic reasoning networks                                                         | Attention-based | 2020 | CVPR                                                           | [Paper](https://arxiv.org/abs/2003.12294)                                                                                                                         |                                                             |
 | Hamming OCR: A Locality Sensitive Hashing Neural Network for Scene Text Recognition                                              | Attention-based | 2020 | arXiv                                                          | [Paper](https://arxiv.org/pdf/2009.10874.pdf)                                                                                                                     |                                                             |
-
-
-
-
-
+  
+  
+  
 ## End-to-End approach
 
 | Title                                                                                                               | Arcitecture | Year | Conference | Paper                                                                                                                                                | Code                                                      |
