@@ -1,4 +1,4 @@
-# scene-text-detection-recognition
+# scene-text-detection-recognition-papers
   
   
   
